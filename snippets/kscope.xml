@@ -74,6 +74,7 @@
   <!-- frameworks -->
   <project path="frameworks/av" name="android_frameworks_av" remote="kscope" />
   <project path="frameworks/base" name="android_frameworks_base" remote="kscope" />
+  <project path="frameworks/minikin" name="android_frameworks_minikin" remote="kscope" />
   <project path="frameworks/native" name="android_frameworks_native" remote="kscope" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="kscope" />
   <project path="frameworks/proto_logging" name="android_frameworks_proto_logging" remote="kscope" />
